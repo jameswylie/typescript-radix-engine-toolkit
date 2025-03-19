@@ -71,5 +71,8 @@
   },
   "overrides": {
     "elliptic": "6.5.7"
+  },
+  "resolutions": {
+    "secp256k1": "^5.0.1"
   }
 }
